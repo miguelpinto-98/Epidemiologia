@@ -9,7 +9,7 @@ A primeira parte encontra-se _____ , podendo ser encontrados vários gráficos (
 ![Grafico de Comparação](figuras/EVpandemia.jpg)
 
 Também foram construidos vários mapas do mundo, um deles sendo este:
-![Mapa Mundo Confirmados](figuras/Mundo_confirmados.jpg)
+![Mapa Mundo Confirmados](figuras/Mundo_Recuperads.png)
 
 ```
 Give an example
