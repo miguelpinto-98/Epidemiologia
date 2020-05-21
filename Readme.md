@@ -4,11 +4,11 @@
 
 Este Github está dividido em 3 partes, duas partes de análise global, uma partir de  gráficos outra a partir de mapas e uma terceira para a resolução de exercicios propostos no  [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
 
-A primeira parte encontra-se _____ , podendo ser encontrados vários gráficos (taxa de____), sendo o mais relevante o seguinte:
+A primeira parte encontra-se neste notebook [Mundo](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Mundo.ipynb) , podendo ser encontrados vários gráficos, sendo o mais relevante o seguinte:
 
 ![Grafico de Comparação](figuras/EVpandemia.jpg)
 
-Também foram construidos vários mapas do mundo, um deles sendo este:
+A primeira parte encontra-se neste notebook [Mundo2](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Mundo2.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte:
 ![Mapa Mundo Confirmados](figuras/Mundo_Recuperads.png)
 
 ```
