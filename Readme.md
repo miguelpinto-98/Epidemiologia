@@ -8,8 +8,8 @@ A primeira parte encontra-se neste notebook [Mundo](https://github.com/miguelpin
 
 ![Grafico de Comparação](figuras/EVpandemia.jpg)
 
-A primeira parte encontra-se neste notebook [Mundo2](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Mundo2.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte:
-![Mapa Mundo Confirmados](figuras/Mundo_Recuperados.jpg)
+A primeira parte encontra-se neste notebook [Mundo2](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Mundo2.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte (mapa mundo de recuperados):
+![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.jpg)
 
 ```
 Give an example
