@@ -8,7 +8,7 @@ A primeira parte encontra-se neste notebook [Estatística_Mundial](https://githu
 
 ![Grafico de Comparação](figuras/EVpandemia.png)
 
-![Grafico de Comparação](figuras/pie.png)
+![Grafico de Comparação](figuras/pieCountries.png)
 
 
 A primeira parte encontra-se neste notebook [Dados_Por_País](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_País.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte (mapa mundo de recuperados):
