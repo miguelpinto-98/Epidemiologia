@@ -6,7 +6,10 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 A primeira parte encontra-se neste notebook [Estatística_Mundial](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Estatística_Mundial.ipynb) , podendo ser encontrados vários gráficos, sendo o mais relevante o seguinte:
 
-![Grafico de Comparação](figuras/EVpandemia.jpg)
+![Grafico de Comparação](figuras/EVpandemia.png)
+
+![Grafico de Comparação](figuras/pie.png)
+
 
 A primeira parte encontra-se neste notebook [Dados_Por_País](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_País.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte (mapa mundo de recuperados):
 ![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png)
