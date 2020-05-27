@@ -14,6 +14,10 @@ A primeira parte encontra-se neste notebook [Estatística_Mundial](https://githu
 A primeira parte encontra-se neste notebook [Dados_Por_País](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_País.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte (mapa mundo de recuperados):
 ![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png)
 
+
+A segunda parte encontra-se neste notebook [Dados_Por_Continente](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_Continente.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte (mapa mundo de recuperados):
+![Mapa Mundo Confirmados](figuras/ECDC_confirmados.png)
+
 ```
 Give an example
 ```
