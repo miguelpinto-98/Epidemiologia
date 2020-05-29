@@ -56,8 +56,8 @@ Este Github está dividido em várias partes, três destas partes são de análi
 * Também foi feita uma previsão para o número de novos casos diários da China com base numa função gaussiana, para os 40 dias seguintes:
 
 <img src="figuras/ChinaDiario.png">
-## Autores
 
+## Autor
 * **Miguel Pinto**  - [miguelpinto-98](https://github.com/miguelpinto-98)
 
 Ver também a lista de  [contributors](https://github.com/miguelpinto-98/Epidemiologia/contributors) que participaram no projeto.
