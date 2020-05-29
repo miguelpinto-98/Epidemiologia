@@ -21,8 +21,8 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 [Natural Earth](https://www.naturalearthdata.com/)
 
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial  sendo os mais relevantes:
-<img src="figuras/Mundo_Recuperados.png" width="1000" height="600">
-<img src="figuras/Mundo_Confirmados.png" height="600">
+<img src="figuras/Mundo_Recuperados.png">
+<img src="figuras/Mundo_Confirmados.png">
 
 
 
@@ -33,8 +33,8 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por continente, sendo o mais relevante o seguinte (mapa mundo de recuperados):
 
-<img src="figuras/ECDC_confirmados.png" height="600">
-<img src="figuras/ECDC_Mortes.png" height="600">
+<img src="figuras/ECDC_confirmados.png" >
+<img src="figuras/ECDC_Mortes.png">
 
 
 ## [Previsão Pandemia na China/Previsão.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Previs%C3%A3o%20Pandemia%20na%20China/Previs%C3%A3o.ipynb) 
@@ -43,11 +43,11 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 * Foi feita uma previsão para o número de casos totais da China com base numa função logística, para os 40 dias seguintes:
 
-<img src="figuras/ChinaTotal.png" height="600">
+<img src="figuras/ChinaTotal.png" >
 
 * Também foi feita uma previsão para o número de novos casos diarios da China com base numa função gaussiana, para os 40 dias seguintes:
 
-<img src="figuras/ChinaDiario.png" height="600">
+<img src="figuras/ChinaDiario.png">
 ## Autores
 
 * **Miguel Pinto**  - [miguelpinto-98](https://github.com/miguelpinto-98)
