@@ -9,4 +9,3 @@ Foi feita uma previsão para o número de casos totais a partir de uma função 
 Também foi feita uma previsão para o número de novos casos diarios a partir de uma função gaussiana, para os 40 dias seguintes:
 
 [Foto](../figuras/ChinaDiario.png)
-
