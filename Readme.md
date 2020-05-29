@@ -21,7 +21,7 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 [Natural Earth](https://www.naturalearthdata.com/)
 
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial  sendo o mais relevante o seguinte (mapa mundo de recuperados):
-![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png)
+![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png  | width=100)
 
 
 ## [Dados_Por_Continente.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_Continente.ipynb) 
