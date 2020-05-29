@@ -9,7 +9,7 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
 * Gráficos com estatisticas mundias com a evolução da pandemia, 2 exemplos :
-<img src="figuras/EVpandemia.png" alt="alt text" width="800" >
+<img src="figuras/EVpandemia.png" width="750" height="750">
 <img src="figuras/pieCountries.png">
 
 
