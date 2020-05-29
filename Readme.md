@@ -45,7 +45,7 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 <img src="figuras/ECDC_Mortes.png">
 
 
-## [Previsão Pandemia na China/Previsão.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Previs%C3%A3o%20Pandemia%20na%20China/Previs%C3%A3o.ipynb) 
+## [Previsão Pandemia na China](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Previs%C3%A3o%20Pandemia%20na%20China/Previs%C3%A3o.ipynb) 
 
 * Para este Jupyter foram utilizados dados disponibilizados quer pelo [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
