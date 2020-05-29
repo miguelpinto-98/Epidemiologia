@@ -13,10 +13,19 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 
 ## [Dados_Por_País.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_País.ipynb) 
+
+* Para este Jupyter foram utilizados dados disponibilizados quer pelo [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) quer também pelo
+[Natural Earth](https://www.naturalearthdata.com/)
+
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial  sendo o mais relevante o seguinte (mapa mundo de recuperados):
 ![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png)
 
+
 ## [Dados_Por_Continente.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_Continente.ipynb) 
+
+* Para este Jupyter foram utilizados dados disponibilizados quer pelo [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) quer também pelo
+[Arcgis](https://www.arcgis.com/home/item.html?id=5cf4f223c4a642eb9aa7ae1216a04372)
+
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por continente, sendo o mais relevante o seguinte (mapa mundo de recuperados):
 ![Mapa Mundo Confirmados](figuras/ECDC_confirmados.png)
 
