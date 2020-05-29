@@ -4,7 +4,8 @@
 
 Este Github está dividido em 3 partes, duas partes de análise global, uma partir de  gráficos outra a partir de mapas e uma terceira para a resolução de exercicios propostos no  [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
 
-A primeira parte encontra-se neste notebook [Estatística_Mundial](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Estatística_Mundial.ipynb) , podendo ser encontrados vários gráficos, sendo o mais relevante o seguinte:
+##[Estatística_Mundial](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Estatística_Mundial.ipynb) 
+* Gráficos com estatisticas mundias com a evolução da pandemia, 2 exemplos :
 
 ![Grafico de Comparação](figuras/EVpandemia.png)
 
