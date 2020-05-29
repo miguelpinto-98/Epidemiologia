@@ -22,7 +22,7 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial  sendo os mais relevantes:
 
-![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png  | width=75)
+![Mapa Mundo Recuperados](figuras/Mundo_Recuperados.png){:height="50%" width="50%"}
 
 ![Mapa Mundo Recuperados](figuras/Mundo_Confirmados.png  | width=75)
 
