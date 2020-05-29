@@ -22,10 +22,10 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial  sendo os mais relevantes:
 
-### Recuperados a nível de Países
+### Recuperados por País
 <img src="figuras/Mundo_Recuperados.png">
 
-### Confirmados a nível de Países
+### Confirmados por País
 <img src="figuras/Mundo_Confirmados.png">
 
 
@@ -37,11 +37,11 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 * Vários mapas criados a partir do PyQgis com a evolução da pandemia por continente, sendo o mais relevante o seguinte (mapa mundo de recuperados):
 
-### Confirmados a nível dos Continentes
+### Confirmados por Continente
 
 <img src="figuras/ECDC_confirmados.png" >
 
-### Mortes a nível dos Continentes
+### Mortes por Continente
 <img src="figuras/ECDC_Mortes.png">
 
 
