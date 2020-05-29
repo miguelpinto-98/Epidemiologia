@@ -2,7 +2,7 @@
  
  Este trabalho foi realizado no âmbito da cadeira de SIG (Sistemas de Informação Geográfica), tendo como objetivo a análise epidemiologica do Covid-19.
 
-Este Github está dividido em 3 partes, duas partes de análise global, uma partir de  gráficos outra a partir de mapas e uma terceira para a resolução de exercicios propostos no  [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
+Este Github está dividido em várias partes, três destas partes são de análise global (uma a partir de  gráficos e análise estatística e as outras duas a partir de analise de mapas (quer por País quer por Continente) ), uma outra parte é relativa à previsão da Pandemia na China, sendo que ainda tem uma secção para o exercício proposto no [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
 
 ## [Estatística_Mundial.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Estatística_Mundial.ipynb) 
 * Para este Jupyter foram utilizados dados disponibilizados quer pelo [DataHub](https://datahub.io/core/covid-19) quer também pelo
@@ -53,7 +53,7 @@ Este Github está dividido em 3 partes, duas partes de análise global, uma part
 
 <img src="figuras/ChinaTotal.png" >
 
-* Também foi feita uma previsão para o número de novos casos diarios da China com base numa função gaussiana, para os 40 dias seguintes:
+* Também foi feita uma previsão para o número de novos casos diários da China com base numa função gaussiana, para os 40 dias seguintes:
 
 <img src="figuras/ChinaDiario.png">
 ## Autores
