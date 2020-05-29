@@ -4,8 +4,8 @@ Esta secção foi desenvolvida com base no github de  [mdipietro098](https://git
 
 Foi feita uma previsão para o número de casos totais a partir de uma função logística, para os 40 dias seguintes:
 
-[Foto1](../figuras/ChinaTotal.png)
+![Foto1](../figuras/ChinaTotal.png)
 
 Também foi feita uma previsão para o número de novos casos diarios a partir de uma função gaussiana, para os 40 dias seguintes:
 
-[Foto](../figuras/ChinaDiario.png)
+![Foto](../figuras/ChinaDiario.png)
