@@ -18,11 +18,13 @@ A primeira parte encontra-se neste notebook [Dados_Por_País](https://github.com
 A segunda parte encontra-se neste notebook [Dados_Por_Continente](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Dados_Por_Continente.ipynb) , podendo ser encontrados vários mapas, sendo o mais relevante o seguinte (mapa mundo de recuperados):
 ![Mapa Mundo Confirmados](figuras/ECDC_confirmados.png)
 
-```
-Give an example
-```
+Foi feita uma previsão para o número de casos totais a partir de uma função logística, para os 40 dias seguintes:
 
+![Foto1](figuras/ChinaTotal.png)
 
+Também foi feita uma previsão para o número de novos casos diarios a partir de uma função gaussiana, para os 40 dias seguintes:
+
+![Foto](figuras/ChinaDiario.png)
 ## Autores
 
 * **Miguel Pinto**  - [miguelpinto-98](https://github.com/miguelpinto-98)
