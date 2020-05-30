@@ -63,7 +63,7 @@ Este Github está dividido em várias partes, três das quais são de análise g
 
 * Assim sendo é possível responder à questão "O Norte aparece com muitos mais casos do que as outras regiões. Será que assim é?", podendo se dizer que sim, apesar de tudo, o Norte é a região com mais afetados.
 
-<img src="figuras/Portugal.png">
+<img src="figuras/portugal.png">
 
 
 ## Autor
