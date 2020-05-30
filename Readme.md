@@ -2,7 +2,7 @@
  
  Este trabalho foi realizado no âmbito da cadeira de SIG (Sistemas de Informação Geográfica), tendo como objetivo a análise epidemiologica do Covid-19.
 
-Este Github está dividido em várias partes, três das quais são de análise global (uma a partir de  gráficos e análise estatística e as outras duas a partir de análise de mapas (quer por País, quer por Continente) ), uma outra parte é relativa à previsão da Pandemia na China, sendo que ainda tem uma secção para o exercício proposto no [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
+Este Github está dividido em várias partes, três das quais são de análise global (uma a partir de  gráficos e análise estatística e as outras duas a partir de análise de mapas (quer por País, quer por Continente) ), uma outra parte é relativa à previsão da Pandemia na China, sendo que uma secção é relativa ao exercício proposto no [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
 
 ## [Estatística_Mundial.ipynb](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Estatística_Mundial.ipynb) 
 * Para este Jupyter foram utilizados dados disponibilizados quer pelo [DataHub](https://datahub.io/core/covid-19) quer também pelo
@@ -56,6 +56,15 @@ Este Github está dividido em várias partes, três das quais são de análise g
 * Também foi feita uma previsão para o número de novos casos diários da China com base numa função gaussiana, para os 40 dias seguintes:
 
 <img src="figuras/ChinaDiario.png">
+
+## [Ponto da Situação em Percentagem](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Ponto%20da%20Situa%C3%A7%C3%A3o%20em%20Percentagem.ipynb)
+
+* Para este Jupyter foram utilizadosos dados já referidos no Github do [exercício](https://github.com/jgrocha/covid-pt/blob/master/Jupyter/Ponto%20da%20Situa%C3%A7%C3%A3o%20em%20Percentagem.ipynb)
+
+* Assim sendo é possível responder à questão "O Norte aparece com muitos mais casos do que as outras regiões. Será que assim é?", podendo se dizer que sim, apesar de tudo, o Norte é a região com mais afetados.
+
+<img src="figuras/Portugal.png">
+
 
 ## Autor
 * **Miguel Pinto**  - [miguelpinto-98](https://github.com/miguelpinto-98)
