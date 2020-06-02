@@ -25,7 +25,7 @@ Este Github está dividido em várias partes, sendo estas:
 * Para este Jupyter foram utilizados dados disponibilizados quer pelo [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) quer também pelo
 [Natural Earth](https://www.naturalearthdata.com/)
 
-* Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial  sendo os mais relevantes:
+* Vários mapas criados a partir do PyQgis com a evolução da pandemia por País a nível mundial,  sendo os mais relevantes:
 
 ### Recuperados por País
 <img src="figuras/Mundo_Recuperados.png">
@@ -40,7 +40,7 @@ Este Github está dividido em várias partes, sendo estas:
 * Para este Jupyter foram utilizados dados disponibilizados quer pelo [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) quer também pelo
 [Arcgis](https://www.arcgis.com/home/item.html?id=5cf4f223c4a642eb9aa7ae1216a04372)
 
-* Vários mapas criados a partir do PyQgis com a evolução da pandemia por continente, sendo o mais relevante o seguinte (mapa mundo de recuperados):
+* Vários mapas criados a partir do PyQgis com a evolução da pandemia por continente, sendo os mais relevantes:
 
 ### Confirmados por Continente
 
