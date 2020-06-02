@@ -58,7 +58,7 @@ Este Github está dividido em várias partes, sendo estas:
 
 <img src="figuras/ChinaTotal.png" >
 
-* Também foi feita uma previsão para o número de novos casos diários na China com base numa função gaussiana, para os 40 dias seguintes:
+* Também foi feita uma previsão para o número diário de novos casos na China, com base numa função gaussiana, para os 40 dias seguintes:
 
 <img src="figuras/ChinaDiario.png">
 
