@@ -66,7 +66,7 @@ Este Github está dividido em várias partes, sendo estas:
 
 * Os dados utilizados neste Jupyter encontram-se referidos no Github do respetivo [exercício](https://github.com/jgrocha/covid-pt/blob/master/Jupyter/Ponto%20da%20Situa%C3%A7%C3%A3o%20em%20Percentagem.ipynb)
 
-* Assim sendo é possível responder à questão: "O Norte aparece com muitos mais casos do que as outras regiões. Será que assim é?", podendo se dizer que sim, apesar de tudo, o Norte é a região com mais afetados.
+* Assim sendo é possível responder à questão: "O Norte aparece com muitos mais casos do que as outras regiões. Será que assim é?", podendo-se dizer que sim, apesar de tudo, o Norte é a região com mais afetados.
 
 <img src="figuras/portugal.png">
 
