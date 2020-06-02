@@ -5,7 +5,7 @@
 Este Github está dividido em várias partes, sendo estas:
 * Análise global com  gráficos e análise estatística, bem como uma análise de mapas (quer por País, quer por Continente);
 
-* Previsão da Pandemia na China, uma análise previsiva do número de casos da pandemia no país;
+* Previsão da Pandemia na China, uma análise previsiva do número de casos da pandemia no País;
 
 * Resolução do exercício proposto no [GitHub Jgrocha](https://github.com/jgrocha/covid-pt/tree/master/Jupyter).
 
