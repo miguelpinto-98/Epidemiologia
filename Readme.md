@@ -50,11 +50,11 @@ Este Github está dividido em várias partes, sendo estas:
 <img src="figuras/ECDC_Mortes.png">
 
 
-## [Previsão Pandemia na China](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Previs%C3%A3o%20Pandemia%20na%20China/Previs%C3%A3o.ipynb) 
+## [Previsão da Pandemia na China](https://github.com/miguelpinto-98/Epidemiologia/blob/master/Previs%C3%A3o%20Pandemia%20na%20China/Previs%C3%A3o.ipynb) 
 
-* Para este Jupyter foram utilizados dados disponibilizados quer pelo [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+* Para este Jupyter foram utilizados dados disponibilizados pelo [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) e foi construído com base no repositório do [mdipietro09](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/example_parametric_fit.ipynb)
 
-* Foi feita uma previsão para o número de casos totais da China com base numa função logística, para os 40 dias seguintes:
+* Foi feita uma previsão para o número de casos totais da China, com base numa função logística, para os 40 dias seguintes:
 
 <img src="figuras/ChinaTotal.png" >
 
