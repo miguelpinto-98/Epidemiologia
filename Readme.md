@@ -54,7 +54,7 @@ Este Github está dividido em várias partes, sendo estas:
 
 * Para este Jupyter foram utilizados dados disponibilizados pelo [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19), construído com base no repositório do [mdipietro09](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/example_parametric_fit.ipynb)
 
-* Foi feita uma previsão para o número de casos totais na China, com base numa função logística, para os 40 dias seguintes:
+* Foi feita uma previsão para o número total de casos na China, com base numa função logística, para os 40 dias seguintes:
 
 <img src="figuras/ChinaTotal.png" >
 
